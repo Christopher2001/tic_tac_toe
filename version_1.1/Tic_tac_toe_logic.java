@@ -1,8 +1,3 @@
-package For_daddy.Tic_tac_toe_game;
-
-/**
- * Created by Satrajit on 2016-06-28.
- */
 public class Tic_tac_toe_logic {
 
     // To clear the table
