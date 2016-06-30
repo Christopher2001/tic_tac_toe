@@ -1,10 +1,5 @@
-package For_daddy.Tic_tac_toe_game;
-
 import java.util.Scanner;
 
-/**
- * Created by Satrajit on 2016-06-28.
- */
 public class Table_instructions {
     static String name1;
     static String name2;
