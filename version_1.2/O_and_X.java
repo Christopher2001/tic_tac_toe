@@ -1,10 +1,5 @@
-package For_daddy.Tic_tac_toe_game;
-
 import java.util.Scanner;
 
-/**
- * Created by Satrajit on 2016-06-29.
- */
 public class O_and_X {
 
     static Scanner sc = new Scanner (System.in);
