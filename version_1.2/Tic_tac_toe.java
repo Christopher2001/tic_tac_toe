@@ -1,10 +1,5 @@
-package For_daddy.Tic_tac_toe_game;
-
 import java.util.Scanner;
 
-/**
- * Created by Satrajit on 2016-06-28.
- */
 public class Tic_tac_toe {
     static String[][] arr = new String[3][3];
     public static void main(String[] args) {
